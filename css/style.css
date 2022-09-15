@@ -90,11 +90,11 @@ section p{
 
 .fotogithub:hover {
     transform: scale(1.1);
-    height: calc(120px + 32px);
 }
 
 header{
     text-align: center;
+    height: calc(120px + 32px);
 }
 
 @keyframes fromTop{
